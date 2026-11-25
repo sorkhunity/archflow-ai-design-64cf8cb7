@@ -1,2 +1,8 @@
-# archflow-ai-design-64cf8cb7
-Archflow AI Design — built with Sorkh.app
+# Archflow AI Design
+
+Built with Sorkh.app Make.
+
+```
+npm install
+npm run dev
+```
